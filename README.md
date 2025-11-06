@@ -19,3 +19,7 @@
 | Цифровое производство 👻|
 | ---------------------- |
 | https://drive.google.com/drive/folders/197a_loF_6oGsteiPtCkWMQEIFy-zqBBW?usp=drive_link |
+
+| Лабораторная работа Лия Николаевна 👻|
+| -----------|
+| https://drive.google.com/drive/folders/1rl1ku8SsPZ2IS0mmVI3eZRniBSAgoQ8b?usp=drive_link |
