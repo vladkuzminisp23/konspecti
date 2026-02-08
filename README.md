@@ -2,6 +2,7 @@
 | -----------|
 | https://docs.google.com/document/d/16DZ5tZ7TCbElbjB0Wx3h6czPsquCnetWmqamzg6NBXQ/edit?tab=t.0 - 5|
 | https://docs.google.com/document/d/1nLPYGW5cqHJSnxqX_nWlZpPxytUIQXErZyB22pesy6E/edit?usp=drive_link - 6 |
+| https://drive.google.com/drive/u/1/folders/1Jo4YIH-X5rf8DYereLMUSnswo0r9gQwt - папка 6 семестр (все задания) |
 
 | системное программирование 👻|
 | -----------|
